@@ -42,7 +42,7 @@ Please find the dependent package -
 numpy==1.24.2
 pandas==1.5.3
 python-dateutil==2.8.2
-FastDataMask==0.0.4
+FastDataMask==0.0.6
 
 ```
 
