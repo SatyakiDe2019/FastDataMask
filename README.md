@@ -267,3 +267,7 @@ Now, as you can see the blue highlighted columns are masked columns. You can wit
 ## Resources
 
 - To view the complete demo with sound, check out our [YouTube Page](https://youtu.be/k36fHKhXsJ4).
+
+## Package
+
+To know more about the package, please visit the PyPi's [FastDataMask Page](https://pypi.org/project/FastDataMask/).
