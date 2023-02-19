@@ -248,6 +248,18 @@ Note that the debug indicator is set to "Y". This will generate logs. If you cha
 
 You can certainly contact me to add any features. Depending upon my bandwidth, I'll add them. Please share your feedback at my Technical blog site shared below.
 
+Let's compare the data against the source -
+
+### Source Data
+
+![InputData.jpeg](InputData.jpeg)
+
+### Masked Data
+
+![MaskedOutputM.jpg](MaskedOutputM.jpg)
+
+Now, as you can see the blue highlighted columns are masked columns. You can witness the difference & the new data patterns, which still holds the essence compared to your original data even after hiding the true identity. 
+
 ## Screenshots
 
 ![demo.GIF](demo.GIF)
