@@ -254,4 +254,4 @@ You can certainly contact me to add any features. Depending upon my bandwidth, I
 
 ## Resources
 
-- To view the complete demo with sound, check out our [YouTube Page](https://youtu.be/oRHWJLrjbrE).
+- To view the complete demo with sound, check out our [YouTube Page](https://youtu.be/k36fHKhXsJ4).
